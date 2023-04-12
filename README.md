@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/DUGQ9HjuBAuQJf66pg" width="480" height="408" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DUGQ9HjuBAuQJf66pg">via GIPHY</a></p>
+
 # Movie DB 🔍
 
 Movie DB is a simple CRUD (Create, Read, Update, Delete) movie database app made with Python Tkinter and SQLite. The app allows you to perform exact or partial searches based on movie title or director, add new movie entries, edit existing ones, and delete them. 
