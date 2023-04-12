@@ -345,7 +345,7 @@ with sqlite3.connect(resource_path(target_dir + "\\movie.db")) as conn:
 #Setup window
 root = Tk()
 root.title('MovieDB Version 1.0')
-root.iconbitmap(default=resource_path(datafile))
+root.iconbitmap(resource_path(datafile))
 root.geometry("620x630") #Width x height
 
 my_menu = Menu(root)
